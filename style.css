@@ -167,6 +167,124 @@ font-family: Georgia, 'Times New Roman', Times, serif;
 
 }
     
+@media screen and (max-width: 600px){
 
+
+    .intro-text {
+        position: absolute;
+        top: 50%;
+        width: 100%;
+        text-align: center;
+        color: white;
+        font-size: 60px;
+        letter-spacing: 8px;
+       font-family: 'Luckiest Guy', cursive;
+       font-weight: bolder;
+    }
+    
+    .textBg {
+    background: black;
+    color: white;
+    padding: 60px;
+    border-radius: 50%;
+    }
+    
+    .section{
+        padding: 30px 50px;
+        text-align: center;
+    }
+    
+    .section1 {
+    
+        background-color: black;
+        color:white;
+    }
+    
+    .bad {
+        font-family: 'DM Serif Display', serif;
+        font-size: 15px;
+        letter-spacing: 1px;
+    }
+    
+    .good{
+        font-family: 'Amatic SC', sans-serif;
+        font-size: 30px;
+        font-weight: 450;
+    }
+    
+    .textBg2{
+    
+        font-size: 40px;
+    background: black;
+    color: white;
+    padding: 100px;
+    border-radius: 50%;
+    position: relative;
+    }
+    
+    .textBg3{
+    font-size: 30px;
+        background: black;
+        color: white;
+        padding: 100px;
+        border-radius: 50%;
+        position: relative;
+        }
+    
+    .textBg4 {
+    
+        bottom: 150px;
+        display: inline-block;
+    white-space: nowrap;
+    font-size: 25px;
+        background: black;
+        color: white;
+        padding: 100px;
+        border-radius: 50%;
+        position: relative;
+    
+    }
+    
+    .textBg5 {
+    
+        bottom: 150px;
+        display: inline-block;
+    white-space: nowrap;
+    font-size: 30px;
+        background: black;
+        color: white;
+        padding: 100px;
+        border-radius: 50%;
+        position: relative;
+    
+    }
+    
+    .textBg6 {
+    
+        bottom: 150px;
+        display: inline-block;
+    white-space: nowrap;
+    font-size: 30px;
+        background: black;
+        color: white;
+        padding: 100px;
+        border-radius: 50%;
+        position: relative;
+    
+    }
+    
+    footer{
+    
+        background: rgb(255, 255, 255);
+        color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: 10px;
+    font-weight: 300;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+    }
+        
+
+}
 
 
